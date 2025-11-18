@@ -50,25 +50,10 @@ This creates a **production-ready solution** that automates expiry date detectio
 
 ## 🎥 Demo
 
-### Watch Our System in Action
-
-https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/Video%202025-11-18%20at%2012.46.14_86147cf7.mp4
-
 
 https://github.com/user-attachments/assets/fe99f46d-2d2a-4987-bb6a-67a8e23c4d21
 
 
-> **Note:** If the video doesn't play above, [click here to download and view](https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/Video%202025-11-18%20at%2012.46.14_86147cf7.mp4)
-
-### 📸 Screenshots
-
-<div align="center">
-
-| Home Interface | Detection Console | Final Results |
-|:--------------:|:-----------------:|:-------------:|
-| ![Home](https://via.placeholder.com/250x150/4A90E2/FFFFFF?text=Upload+Image) | ![Processing](https://via.placeholder.com/250x150/50C878/FFFFFF?text=OCR+Processing) | ![Results](https://via.placeholder.com/250x150/FF6B6B/FFFFFF?text=Expiry+Status) |
-
-</div>
 
 ---
 
