@@ -54,6 +54,13 @@ This creates a **production-ready solution** that automates expiry date detectio
 
 https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/Video%202025-11-18%20at%2012.46.14_86147cf7.mp4
 
+
+
+
+https://github.com/user-attachments/assets/551da739-3722-41ec-a4cb-4032c1d54b89
+
+
+
 > **Note:** If the video doesn't play above, [click here to download and view](https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/Video%202025-11-18%20at%2012.46.14_86147cf7.mp4)
 
 ### 📸 Screenshots
