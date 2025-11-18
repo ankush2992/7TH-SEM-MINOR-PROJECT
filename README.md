@@ -52,19 +52,24 @@ This creates a **production-ready solution** that automates expiry date detectio
 
 ### Watch Our System in Action
 
-https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/assets/YOUR_USERNAME/YOUR_VIDEO_FILE_NAME.mp4
+https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/Video%202025-11-18%20at%2012.46.14_86147cf7.mp4
 
-> **Note:** If the video doesn't play above, [click here to download and view](https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/YOUR_VIDEO_FILE_NAME.mp4)
+> **Note:** If the video doesn't play above, [click here to download and view](https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/raw/main/WORKING%20DEMO%20VIDEO/Video%202025-11-18%20at%2012.46.14_86147cf7.mp4)
+```
 
-### 📸 Screenshots
+**Note:** The spaces in the filename are converted to `%20` in the URL.
 
-<div align="center">
+---
 
-| Home Interface | Detection Console | Final Results |
-|:--------------:|:-----------------:|:-------------:|
-| ![Home](https://via.placeholder.com/250x150/4A90E2/FFFFFF?text=Upload+Image) | ![Processing](https://via.placeholder.com/250x150/50C878/FFFFFF?text=OCR+Processing) | ![Results](https://via.placeholder.com/250x150/FF6B6B/FFFFFF?text=Expiry+Status) |
+### Method 2: Using GitHub Issues (Easiest - RECOMMENDED)
 
-</div>
+Since your filename has spaces and special characters, the easiest method is:
+
+1. **Go to your repository** → **Issues** → **New Issue**
+2. **Drag and drop** the video file directly into the issue description
+3. GitHub will upload it and give you a clean URL like:
+```
+   https://github.com/ankush2992/7TH-SEM-MINOR-PROJECT/assets/12345678/abc123-video.mp4
 
 ---
 
